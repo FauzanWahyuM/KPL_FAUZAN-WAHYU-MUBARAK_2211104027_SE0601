@@ -86,7 +86,7 @@ Tanpa membuat file baru (gunakan file yang dibuat saat membuat project dan pasti
     <br>
 
     Output :
-    ![TP_SC_SS](/03_GUI_Builder_dan_GitHub/img/TP1.png)
+    ![TP_SC_SS](/05_Generics/img/TP1.png)
     <br>
 
     Penjelasan Program :
@@ -139,7 +139,7 @@ Tanpa membuat file baru (gunakan file yang dibuat saat membuat project dan pasti
     <br>
 
     Output :
-    ![TP_SC_SS](/03_GUI_Builder_dan_GitHub/img/TP2.png)
+    ![TP_SC_SS](/05_Generics/img/TP2.png)
     <br>
 
     Penjelasan Program :
