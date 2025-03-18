@@ -187,11 +187,11 @@ Pada class yang dibuat sebelumnya tambahkan implementasi design by contract deng
     <br>
 
     Output :
-
+    ![TP_SC_SS](/06_Design_by_Contract_dan_Defensive_Programming/img/Jurnal1.png)
     <br>
 
     Penjelasan Program : 
-
+    Program di atas memiliki output yaitu sistem manajemen video sederhana bernama **SayaTube** dengan dua kelas utama, yaitu `SayaTubeVideo` dan `SayaTubeUser`. Kelas `SayaTubeVideo` merepresentasikan video dengan atribut **ID, title,** dan **play count**, serta menyediakan metode untuk meningkatkan jumlah tayangan dan menampilkan detail video. Kelas `SayaTubeUser` merepresentasikan pengguna yang memiliki daftar video yang diunggah dan menyediakan metode untuk menambahkan video serta menghitung total jumlah tayangan dari semua video yang dimilikinya. Di dalam `Main()`, program membuat objek `SayaTubeUser` bernama **Fauzan Wahyu M**, menambahkan beberapa video dengan judul review film Marvel, lalu memberikan jumlah tayangan acak antara 1000 hingga 5000 pada setiap video. Terakhir, program mencetak daftar video yang dimiliki pengguna beserta total jumlah tayangan dari semua videonya.
     <br>
 
 2. Source Code 
@@ -356,9 +356,9 @@ Pada class yang dibuat sebelumnya tambahkan implementasi design by contract deng
     <br>
 
     Output :
-
+    ![TP_SC_SS](/06_Design_by_Contract_dan_Defensive_Programming/img/Jurnal2.png)
     <br>
 
     Penjelasan Program :
-    
+    Sedangkan program di atas ini memiliki output berupa sistem sederhana untuk mengelola video dan pengguna di platform bernama **SayaTube**. Kelas `SayaTubeVideo` merepresentasikan video dengan atribut **ID, title,** dan **play count**, serta metode untuk menambah jumlah penayangan dengan validasi batas maksimum. Kelas `SayaTubeUser` menyimpan daftar video yang diunggah oleh seorang pengguna dan menyediakan metode untuk menampilkan serta menghitung total jumlah penayangan dari semua videonya. Di dalam `Main()`, program membuat objek `SayaTubeUser` bernama **Fauzan Wahyu M**, menambahkan beberapa video dengan judul review film Marvel, lalu meningkatkan jumlah tayangan tiap video hingga batas maksimal yang diizinkan. Program juga menguji kemungkinan **integer overflow** dengan mencoba menambahkan play count dalam jumlah besar, yang ditangani dengan mekanisme `try-catch`.
     <br>
