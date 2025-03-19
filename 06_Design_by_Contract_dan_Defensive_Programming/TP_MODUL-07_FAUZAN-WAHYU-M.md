@@ -37,15 +37,16 @@ TELKOM UNIVERSITY PURWOKERTO <br>
 ## Tugas Pendahuluan
 ---
 
-1. Link Github Repository Kelompok : `https://github.com/FauzanWahyuM/tpmodul7_kelompok_6.git`
+1. Link Github Repository Kelompok : [Github Repository Kelompok 6](https://github.com/FauzanWahyuM/tpmodul7_kelompok_6.git)
 
 <br>
 
 2. Screenshot Hasil Run :
-![TP_SC_SS](/06_Design_by_Contract_dan_Defensive_Programming/img/TP1.png)
-<br>
-![TP_SC_SS](/06_Design_by_Contract_dan_Defensive_Programming/img/TP2.png)
-<br>
+    ![TP_SC_SS](/06_Design_by_Contract_dan_Defensive_Programming/img/TP1.png)
+    <br>
+
+    ![TP_SC_SS](/06_Design_by_Contract_dan_Defensive_Programming/img/TP2.png)
+    <br>
 
 3. Penjelasan Program Pertama :
 Code diatas adalah cara menerapkan **deserialisasi JSON** untuk membaca data mahasiswa dari file `tp7_1_2211104027.json`. Class `DataMahasiswa` memiliki tiga properti: `Nama`, `NIM`, dan `Fakultas`, yang sesuai dengan struktur JSON yang akan dibaca. Method `ReadJSON()` bertugas untuk **memeriksa keberadaan file JSON**, kemudian membacanya menggunakan `File.ReadAllText()`, dan melakukan deserialisasi menggunakan `JsonConvert.DeserializeObject<T>()` dari **Newtonsoft.Json**. Jika file ditemukan, program akan mencetak informasi mahasiswa dalam format `"Nama <nama> dengan nim <nim> dari fakultas <fakultas>"`, sedangkan jika file tidak ditemukan, akan muncul pesan error. Method `Main()` akan memanggil `ReadJSON()` untuk mengeksekusi program saat dijalankan.
