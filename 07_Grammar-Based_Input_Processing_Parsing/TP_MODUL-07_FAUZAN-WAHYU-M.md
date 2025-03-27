@@ -42,10 +42,10 @@ TELKOM UNIVERSITY PURWOKERTO <br>
 <br>
 
 2. Screenshot Hasil Run :
-    ![TP_SC_SS](/06_Design_by_Contract_dan_Defensive_Programming/img/TP1.png)
+    ![TP_SC_SS](/07_Grammar-Based_Input_Processing_Parsing/img/TP1.png)
     <br>
 
-    ![TP_SC_SS](/06_Design_by_Contract_dan_Defensive_Programming/img/TP2.png)
+    ![TP_SC_SS](/07_Grammar-Based_Input_Processing_Parsing/img/TP2.png)
     <br>
 
 3. Penjelasan Program Pertama :
