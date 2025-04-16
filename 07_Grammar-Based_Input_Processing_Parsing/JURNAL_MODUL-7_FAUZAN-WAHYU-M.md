@@ -1,7 +1,5 @@
-# Cover 
-
 <div align="center">
-TUGAS PENDAHULUAN <br>
+JURNAL<br>
 KONSTRUKSI PERANGKAT LUNAK <br>
 <br>
 MODUL VII <br>
