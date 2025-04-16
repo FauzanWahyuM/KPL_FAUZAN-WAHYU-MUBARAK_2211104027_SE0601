@@ -308,6 +308,6 @@ Failed :
 <br>
 
 Penjelasan Program :
-
+Saya mengerjakan tugas yang beroutput simulasi transfer bank berbasis konfigurasi runtime, di mana pengaturan seperti bahasa, biaya transfer, dan metode transfer dibaca dari file bank_transfer_config.json. Program memanfaatkan teknik Runtime Configuration melalui class BankTransferConfig, yang akan membaca file konfigurasi tersebut atau menggunakan nilai default jika file belum ada. Saat dijalankan, program menyesuaikan seluruh tampilan teks (seperti instruksi, biaya transfer, metode transfer, dan konfirmasi) berdasarkan bahasa yang ditentukan di konfigurasi (en atau id). Program juga secara dinamis menentukan biaya transfer tergantung dari jumlah yang dimasukkan, apakah di bawah atau di atas ambang (threshold) yang telah ditentukan. Pengguna kemudian memilih metode transfer dan harus mengetik kata konfirmasi sesuai bahasa untuk menyelesaikan transaksi. Jika input konfirmasi sesuai, maka transaksi dianggap berhasil; jika tidak, transaksi dibatalkan.
 <br>
 
