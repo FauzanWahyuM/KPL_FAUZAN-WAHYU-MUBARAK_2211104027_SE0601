@@ -295,6 +295,8 @@ bank_transfer_config.json :
 
 
 Output :
+<br>
+
 Indonesia : 
 ![TP_SC_SS](/08_Runtime_Configuration_dan_Internationalization/img/indo.png)
 <br>
