@@ -105,3 +105,7 @@ Program di atas meminta pengguna untuk memasukkan satu huruf melalui konsol. Inp
 - Penjelasan Program
 Program ini mendeklarasikan sebuah array bertipe `int` bernama `angkaGenap` yang berisi lima bilangan genap mulai dari 2 hingga 10. Program kemudian menggunakan perulangan `for` untuk mengiterasi setiap elemen dalam array. Pada setiap iterasi, indeks array (`i`) digunakan untuk mengakses nilai dari elemen dan menampilkannya ke konsol. Nomor urut ditampilkan dengan menambahkan 1 pada nilai indeks agar dimulai dari 1, bukan 0. Hasil output menunjukkan urutan bilangan genap beserta nilainya secara berurutan.
 
+
+### 3. Commit Github
+
+[Link Github](https://github.com/FauzanWahyuM/tpmodul2_2211104027.git)
