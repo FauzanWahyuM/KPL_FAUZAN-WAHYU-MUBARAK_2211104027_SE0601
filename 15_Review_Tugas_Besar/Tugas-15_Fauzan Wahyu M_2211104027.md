@@ -1,10 +1,8 @@
-# Cover 
-
 <div align="center">
-TUGAS PENDAHULUAN <br>
+TUGAS<br>
 KONSTRUKSI PERANGKAT LUNAK <br>
 <br>
-MODUL XIV <br>
+MODUL XV <br>
 <!-- JUDUL -->
  <br>
 
@@ -34,3 +32,7 @@ FAKULTAS INFORMATIKA <br>
 TELKOM UNIVERSITY PURWOKERTO <br>
 
 </div>
+
+---
+## Tugas
+---
