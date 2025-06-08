@@ -95,5 +95,6 @@ Program ini merupakan aplikasi Windows Forms berbasis C# yang dirancang untuk me
 
 
 ### 3. Commit Github
-![TP_SC_SS](/03_GUI_Builder_dan_GitHub/img/gui-tp3.png)
-    <br>
+![TP_SC_SS](/03_GUI_Builder_dan_GitHub/img/commit1.png)
+
+[link Github](https://github.com/FauzanWahyuM/tpmodul3_2211104027.git)

@@ -202,3 +202,6 @@ Program ini adalah aplikasi kalkulator sederhana berbasis Windows Forms dalam ba
 
 
 ### 3. Commit Github
+![TP_SC_SS](/03_GUI_Builder_dan_GitHub/img/commit2.png)
+
+[link Github](https://github.com/FauzanWahyuM/modul3_2211104027.git)
