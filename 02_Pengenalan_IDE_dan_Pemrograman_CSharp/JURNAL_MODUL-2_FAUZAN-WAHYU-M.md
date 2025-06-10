@@ -61,8 +61,9 @@ TELKOM UNIVERSITY PURWOKERTO <br>
     <br>
 
 - Output
-![JURNAL_SC_SS](/02_Pengenalan_IDE_dan_Pemrograman_CSharp/img/output-jrnl1.png)
-    <br>
+
+ ![JURNAL_SC_SS](/02_Pengenalan_IDE_dan_Pemrograman_CSharp/img/output-jrnl1.png)
+     <br>
 
 - Penjelasan Program
 Program ini meminta pengguna untuk memasukkan nama melalui konsol dengan menampilkan pesan "Masukkan nama Anda:". Input yang dimasukkan oleh pengguna disimpan dalam variabel `nama` bertipe string. Setelah itu, program mencetak pesan sapaan yang memuat nama pengguna, yaitu "Selamat datang, \[nama]!". Program ini berfungsi sebagai bentuk interaksi sederhana dengan pengguna menggunakan input dan output teks. Keseluruhan proses berjalan secara berurutan dalam metode `Main`.
@@ -94,6 +95,7 @@ Program ini meminta pengguna untuk memasukkan nama melalui konsol dengan menampi
     <br>
 
 - Output
+
 ![JURNAL_SC_SS](/02_Pengenalan_IDE_dan_Pemrograman_CSharp/img/output-jrnl2.png)
 ![JURNAL_SC_SS](/02_Pengenalan_IDE_dan_Pemrograman_CSharp/img/output-jrnl3.png)
     <br>
@@ -140,10 +142,12 @@ Program ini membuat sebuah array `data` berukuran 50 elemen bertipe integer dan 
     <br>
 
 - Output Bukan Prima
+
 ![JURNAL_SC_SS](/02_Pengenalan_IDE_dan_Pemrograman_CSharp/img/output-jrnl4.png)
     <br>
 
 - Output Prima
+
 ![JURNAL_SC_SS](/02_Pengenalan_IDE_dan_Pemrograman_CSharp/img/output-jrnl5.png)
     <br>
 
