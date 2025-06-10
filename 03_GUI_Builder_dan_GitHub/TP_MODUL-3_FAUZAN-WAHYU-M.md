@@ -2,7 +2,7 @@
 TUGAS PENDAHULUAN <br>
 KONSTRUKSI PERANGKAT LUNAK <br>
 <br>
-MODUL V <br>
+MODUL III <br>
 <!-- JUDUL -->
  <br>
 
@@ -83,10 +83,12 @@ TELKOM UNIVERSITY PURWOKERTO <br>
     <br>
 
 - Output Sebelum Dijalankan
+  
 ![TP_SC_SS](/03_GUI_Builder_dan_GitHub/img/gui-tp2.png)
     <br>
 
 - Output Setelah Dijalankan
+  
 ![TP_SC_SS](/03_GUI_Builder_dan_GitHub/img/gui-tp3.png)
     <br>
 
