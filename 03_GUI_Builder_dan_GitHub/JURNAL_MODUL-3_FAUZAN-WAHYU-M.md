@@ -183,17 +183,22 @@ Karena NIM saya jika di mod, hasilnya 2211104027 % 3 == 2, Jadi saya memakai for
     ```
     <br>
 
-- Output Design 
+- Output Design
+ 
 ![JURNAL_SC_SS](/03_GUI_Builder_dan_GitHub/img/gui-jrnl2.png)
     <br>
 
 - Output Setelah Dijalankan
+  
 ![JURNAL_SC_SS](/03_GUI_Builder_dan_GitHub/img/gui-jrnl3.png)
     <br>
+    
 ![JURNAL_SC_SS](/03_GUI_Builder_dan_GitHub/img/gui-jrnl4.png)
     <br>
+    
 ![JURNAL_SC_SS](/03_GUI_Builder_dan_GitHub/img/gui-jrnl5.png)
     <br>
+    
 ![JURNAL_SC_SS](/03_GUI_Builder_dan_GitHub/img/gui-jrnl6.png)
     <br>
 
