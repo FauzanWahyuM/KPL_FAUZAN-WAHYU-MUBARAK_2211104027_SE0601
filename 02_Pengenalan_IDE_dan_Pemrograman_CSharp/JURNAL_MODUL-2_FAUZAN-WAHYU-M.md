@@ -144,6 +144,7 @@ Program ini membuat sebuah array `data` berukuran 50 elemen bertipe integer dan 
     <br>
 
 - Output Prima
+<br>
 ![JURNAL_SC_SS](/02_Pengenalan_IDE_dan_Pemrograman_CSharp/img/output-jrnl5.png)
     <br>
 
